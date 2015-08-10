@@ -39,6 +39,7 @@ with communication over the HTTP protocol.
 - What is their role in the product development life cycle?
   - Influence design by identifying what's possible and what's feasible.
   - Implement features from user stories.
+  - https://www.youtube.com/watch?v=BKorP55Aqvg
 
 ## Agile Workflows
 
