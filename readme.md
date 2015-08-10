@@ -93,3 +93,8 @@ https://github.com/ga-dc/uxdi-guestbook
 
 ### You do: Portfolio on GitHub pages
 
+Follow the guide here - https://pages.github.com/
+
+To create a new repository named yourusername.github.io, and publish
+a simple portfolio page.
+
